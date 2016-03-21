@@ -1,8 +1,8 @@
 \contentsline {chapter}{\numberline {1}Literature Review}{3}
 \contentsline {section}{\numberline {1.1}A Brief History of Conservation}{3}
-\contentsline {section}{\numberline {1.2}Social Norms}{3}
-\contentsline {subsection}{\numberline {1.2.1}Theories of Social Norms}{3}
-\contentsline {subsection}{\numberline {1.2.2}Norm Interventions in Other Arenas}{3}
-\contentsline {chapter}{\numberline {2}Are Norms Useful in Conservation?}{4}
-\contentsline {chapter}{\numberline {3}Field Studies and Experiments}{5}
-\contentsline {chapter}{\numberline {4}Models}{6}
+\contentsline {section}{\numberline {1.2}Social Norms}{4}
+\contentsline {subsection}{\numberline {1.2.1}Theories of Social Norms}{4}
+\contentsline {subsection}{\numberline {1.2.2}Norm Interventions in Other Arenas}{4}
+\contentsline {chapter}{\numberline {2}Are Norms Useful in Conservation?}{5}
+\contentsline {chapter}{\numberline {3}Field Studies and Experiments}{6}
+\contentsline {chapter}{\numberline {4}Models}{7}
