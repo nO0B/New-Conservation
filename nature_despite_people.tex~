@@ -1,0 +1,17 @@
+\documentclass[rutwik_proposal.tex]{subfiles}
+
+\begin{document}
+
+\subsection{Nature despite people}\label{subsec:pplharmnature}
+
+\section{Social Norms}\label{sec:norms}
+\subsection{Theories of Social Norms}\label{subsec:theories}
+\subsection{Norm Interventions in Other Arenas}\label{subsec:interventions}
+
+\chapter{Are Norms Useful in Conservation?}\label{ch:usefulness}
+
+\chapter{Field Studies and Experiments}\label{ch:field}
+
+\chapter{Models}\label{ch:models}
+
+\end{document}

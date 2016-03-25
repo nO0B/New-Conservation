@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2016.3.17)  23 MAR 2016 09:20
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2016.3.17)  24 MAR 2016 10:24
 entering extended mode
  file:line:error style messages enabled.
  %&-line parsing enabled.
@@ -114,6 +114,11 @@ File: epstopdf-sys.cfg 2009/10/26 v1.1 Configuration of epstopdf for TeX Live
 Package: epsfig 1999/02/16 v1.7a (e)psfig emulation (SPQR)
 \epsfxsize=\dimen105
 \epsfysize=\dimen106
+)
+(/usr/share/texmf-texlive/tex/latex/cite/cite.sty
+LaTeX Info: Redefining \cite on input line 285.
+LaTeX Info: Redefining \nocite on input line 356.
+Package: cite 2009/08/29  v 5.2
 ))) (./chapter1.aux)
 \openout1 = `chapter1.aux'.
 
@@ -144,6 +149,22 @@ LaTeX Font Info:    ... okay on input line 3.
 \everyMPtoPDFconversion=\toks18
 )
 Chapter 1.
+
+LaTeX Warning: Citation `Pinchot98' on page 1 undefined on input line 15.
+
+
+LaTeX Warning: Citation `Pinchot10' on page 1 undefined on input line 15.
+
+
+LaTeX Warning: Citation `Brinkley09' on page 1 undefined on input line 15.
+
+
+LaTeX Warning: Citation `Righter05' on page 1 undefined on input line 15.
+
+[1
+
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
 Package epstopdf Info: Source file: <Images/constimeline.eps>
 (epstopdf)                    date: 2016-03-22 23:29:44
 (epstopdf)                    size: 262099 bytes
@@ -154,43 +175,84 @@ Package epstopdf Info: Source file: <Images/constimeline.eps>
 verted-to.pdf Images/constimeline.eps>
 (epstopdf)             \includegraphics on input line 19.
 Package epstopdf Info: Output file is already uptodate.
-<Images/constimeline-eps-converted-to.pdf, id=1, 350.30875pt x 285.065pt>
+
+<Images/constimeline-eps-converted-to.pdf, id=7, 350.30875pt x 285.065pt>
 File: Images/constimeline-eps-converted-to.pdf Graphic file (type pdf)
 
 <use Images/constimeline-eps-converted-to.pdf>
-
-LaTeX Warning: Citation `Mace14' on page 1 undefined on input line 20.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
+Overfull \hbox (5.30789pt too wide) in paragraph at lines 19--20
+ [][] 
+ []
 
 
-LaTeX Warning: Citation `Pinchot98' on page 1 undefined on input line 24.
+LaTeX Warning: Citation `Mace14' on page 2 undefined on input line 20.
 
 
-LaTeX Warning: Citation `Pinchot10' on page 1 undefined on input line 24.
+LaTeX Warning: Citation `Muir1901' on page 2 undefined on input line 25.
 
 
-LaTeX Warning: Citation `Brinkley09' on page 1 undefined on input line 24.
+LaTeX Warning: Citation `Thoreau06' on page 2 undefined on input line 25.
 
 
-LaTeX Warning: Citation `Righter05' on page 1 undefined on input line 24.
+LaTeX Warning: Citation `Wilson16' on page 2 undefined on input line 25.
 
-[1
+[2 <./Images/constimeline-eps-converted-to.pdf>]
+
+LaTeX Warning: Citation `Langston95' on page 3 undefined on input line 27.
 
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2 <./Images/constimeline-
-eps-converted-to.pdf>]
+LaTeX Warning: Citation `Steinberg13' on page 3 undefined on input line 27.
+
+
+LaTeX Warning: Citation `Butzer99' on page 3 undefined on input line 27.
+
+
+LaTeX Warning: Citation `Langston95' on page 3 undefined on input line 27.
+
+
+LaTeX Warning: Citation `Pyne82' on page 3 undefined on input line 27.
+
+
+LaTeX Warning: Citation `Agrawal09' on page 3 undefined on input line 29.
+
+
+LaTeX Warning: Citation `Dowie06' on page 3 undefined on input line 29.
+
+
+LaTeX Warning: Citation `Johnson99' on page 3 undefined on input line 29.
+
+
+LaTeX Warning: Citation `Stuart04' on page 3 undefined on input line 31.
+
+
+LaTeX Warning: Citation `Barnosky11' on page 3 undefined on input line 31.
+
+
+LaTeX Warning: Citation `Dirzo14' on page 3 undefined on input line 31.
+
+
+LaTeX Warning: Citation `Rodrigues06' on page 3 undefined on input line 31.
+
+
+LaTeX Warning: Citation `Hoffman11' on page 3 undefined on input line 31.
+
+
+LaTeX Warning: Citation `Hoffman10' on page 3 undefined on input line 31.
+
+
+LaTeX Warning: Citation `Chape05' on page 3 undefined on input line 31.
+
+[3] [4]
 Chapter 2.
-[3
+[5
 
 ]
 Chapter 3.
-[4
+[6
 
 ]
 Chapter 4.
-[5
+[7
 
 ] (./chapter1.aux)
 
@@ -198,19 +260,20 @@ LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 1357 strings out of 493848
- 19145 string characters out of 1152823
- 72452 words of memory out of 3000000
- 4624 multiletter control sequences out of 15000+50000
- 6071 words of font info for 22 fonts, out of 3000000 for 9000
+ 1468 strings out of 493848
+ 20482 string characters out of 1152823
+ 75462 words of memory out of 3000000
+ 4731 multiletter control sequences out of 15000+50000
+ 6417 words of font info for 23 fonts, out of 3000000 for 9000
  714 hyphenation exceptions out of 8191
- 50i,6n,28p,820b,218s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 50i,5n,25p,1541b,195s stack positions out of 5000i,500n,10000p,200000b,50000s
 </usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/sha
 re/texmf-texlive/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-te
-xlive/fonts/type1/public/amsfonts/cm/cmr10.pfb>
-Output written on chapter1.pdf (5 pages, 123674 bytes).
+xlive/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-texlive/fonts/
+type1/public/amsfonts/cm/cmti10.pfb>
+Output written on chapter1.pdf (7 pages, 144257 bytes).
 PDF statistics:
- 34 PDF objects out of 1000 (max. 8388607)
+ 46 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 

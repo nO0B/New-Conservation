@@ -1,8 +1,11 @@
 \contentsline {chapter}{\numberline {1}Literature Review}{6}
 \contentsline {section}{\numberline {1.1}A Brief History of Conservation}{6}
-\contentsline {section}{\numberline {1.2}Social Norms}{7}
-\contentsline {subsection}{\numberline {1.2.1}Theories of Social Norms}{7}
-\contentsline {subsection}{\numberline {1.2.2}Norm Interventions in Other Arenas}{7}
-\contentsline {chapter}{\numberline {2}Are Norms Useful in Conservation?}{8}
-\contentsline {chapter}{\numberline {3}Field Studies and Experiments}{9}
-\contentsline {chapter}{\numberline {4}Models}{10}
+\contentsline {subsection}{\numberline {1.1.1}Nature for itself}{7}
+\contentsline {subsection}{\numberline {1.1.2}Nature despite people}{9}
+\contentsline {subsection}{\numberline {1.1.3}Nature for People}{10}
+\contentsline {section}{\numberline {1.2}Social Norms}{11}
+\contentsline {subsection}{\numberline {1.2.1}Theories of Social Norms}{11}
+\contentsline {subsection}{\numberline {1.2.2}Norm Interventions in Other Arenas}{11}
+\contentsline {chapter}{\numberline {2}Are Norms Useful in Conservation?}{12}
+\contentsline {chapter}{\numberline {3}Field Studies and Experiments}{13}
+\contentsline {chapter}{\numberline {4}Models}{14}
