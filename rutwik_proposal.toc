@@ -3,9 +3,9 @@
 \contentsline {subsection}{\numberline {1.1.1}Nature for itself}{7}
 \contentsline {subsection}{\numberline {1.1.2}Nature despite people}{9}
 \contentsline {subsection}{\numberline {1.1.3}Nature for People}{10}
-\contentsline {section}{\numberline {1.2}Social Norms}{12}
-\contentsline {subsection}{\numberline {1.2.1}Theories of Social Norms}{12}
-\contentsline {subsection}{\numberline {1.2.2}Norm Interventions in Other Arenas}{12}
-\contentsline {chapter}{\numberline {2}Are Norms Useful in Conservation?}{13}
-\contentsline {chapter}{\numberline {3}Field Studies and Experiments}{14}
-\contentsline {chapter}{\numberline {4}Models}{15}
+\contentsline {section}{\numberline {1.2}Social Norms}{13}
+\contentsline {subsection}{\numberline {1.2.1}Theories of Social Norms}{13}
+\contentsline {subsection}{\numberline {1.2.2}Norm Interventions in Other Arenas}{13}
+\contentsline {chapter}{\numberline {2}Are Norms Useful in Conservation?}{14}
+\contentsline {chapter}{\numberline {3}Field Studies and Experiments}{15}
+\contentsline {chapter}{\numberline {4}Models}{16}
