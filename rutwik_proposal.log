@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2016.3.17)  27 MAR 2016 18:43
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2016.3.17)  28 MAR 2016 07:30
 entering extended mode
  %&-line parsing enabled.
 **rutwik_proposal.tex
@@ -211,23 +211,23 @@ File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 19.
  [10] [11] [12])
-(./nature_and_ppl.tex [13] [14]
+(./nature_and_ppl.tex [13] [14] [15]
 Chapter 2.
-[15
-
-]
-Chapter 3.
 [16
 
 ]
+Chapter 3.
+[17
+
+]
 Chapter 4.
-) (./bibliography.tex [17
+) (./bibliography.tex [18
 
 ]
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no “ in font cmr10!
- [18
+ [19
 
 ]
 Missing character: There is no â in font cmr10!
@@ -257,7 +257,7 @@ Missing character: There is no “ in font cmr10!
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no “ in font cmr10!
- [19]
+ [20]
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ™ in font cmr10!
@@ -266,7 +266,7 @@ Missing character: There is no € in font cmr10!
 Missing character: There is no “ in font cmr10!
 Missing character: There is no Ã in font cmr10!
 Missing character: There is no ³ in font cmr10!
- [20]
+ [21]
 Missing character: There is no Ã in font cmr10!
 Missing character: There is no ³ in font cmr10!
 Missing character: There is no â in font cmr10!
@@ -294,15 +294,15 @@ Missing character: There is no € in font cmr10!
 Missing character: There is no “ in font cmr10!
 Missing character: There is no Ã in font cmr10!
 Missing character: There is no ­ in font cmr10!
- [21]) [22] (./rutwik_proposal.aux) ) 
+ [22]) [23] (./rutwik_proposal.aux) ) 
 Here is how much of TeX's memory you used:
- 1555 strings out of 493848
- 21534 string characters out of 1152823
- 75624 words of memory out of 3000000
- 4799 multiletter control sequences out of 15000+50000
+ 1561 strings out of 493848
+ 21638 string characters out of 1152823
+ 76702 words of memory out of 3000000
+ 4805 multiletter control sequences out of 15000+50000
  9453 words of font info for 33 fonts, out of 3000000 for 9000
  714 hyphenation exceptions out of 8191
- 41i,6n,23p,1559b,249s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 41i,6n,23p,1678b,249s stack positions out of 5000i,500n,10000p,200000b,50000s
 </usr/share/texmf-texlive/fonts/type1/publ
 ic/amsfonts/cm/cmbx10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts
 /cm/cmbx12.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr10.p
@@ -310,9 +310,9 @@ fb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/sha
 re/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texmf-tex
 live/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-texlive/fonts/
 type1/public/amsfonts/cm/cmti10.pfb>
-Output written on rutwik_proposal.pdf (23 pages, 234296 bytes).
+Output written on rutwik_proposal.pdf (24 pages, 237913 bytes).
 PDF statistics:
- 108 PDF objects out of 1000 (max. 8388607)
+ 111 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
