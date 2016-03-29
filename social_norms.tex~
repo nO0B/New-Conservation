@@ -1,0 +1,29 @@
+\documentclass[rutwik_proposal.tex]{subfiles}
+
+\begin{document}
+
+\section{Social Norms}\label{sec:norms}
+
+\subsection{Theories of Social Norms}\label{subsec:theories}
+
+\subsubsection{Socialized Actor Theory}\label{subsubsec:socialization}
+
+\subsubsection{Social Identity Theory}\label{subsubsec:socidentity}
+
+\subsubsection{Rational Actor Theory}\label{subsubsec:rationality}
+
+\subsection{Norm Interventions in Other Arenas}\label{subsec:interventions}
+
+\subsubsection{Bullying in High Schools}\label{bullying}
+
+\subsubsection{Drinking on College Campuses}\label{drinking}
+
+\subsubsection{Household Energy Consumption}\label{electricity}
+
+\chapter{Can Norms Make a Difference?}\label{ch:usefulness}
+
+\chapter{Models}\label{ch:models}
+
+\chapter{Field Studies and Experiments}\label{ch:field}
+
+\end{document}
