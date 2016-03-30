@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2016.3.17)  28 MAR 2016 22:35
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2016.3.17)  30 MAR 2016 00:23
 entering extended mode
  %&-line parsing enabled.
 **rutwik_proposal.tex
@@ -211,23 +211,40 @@ File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 19.
  [10] [11] [12])
-(./nature_and_ppl.tex [13]) (./social_norms.tex [14] [15] [16] [17]
+(./nature_and_ppl.tex [13]) (./social_norms.tex [14] [15]) (./soc_identity.tex
+[16] [17]
+Package epstopdf Info: Source file: <Images/multi_id.eps>
+(epstopdf)                    date: 2016-03-29 16:14:09
+(epstopdf)                    size: 88659 bytes
+(epstopdf)             Output file: <Images/multi_id-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-03-29 16:19:17
+(epstopdf)                    size: 32999 bytes
+(epstopdf)             Command: <epstopdf --outfile=Images/multi_id-eps-convert
+ed-to.pdf Images/multi_id.eps>
+(epstopdf)             \includegraphics on input line 17.
+Package epstopdf Info: Output file is already uptodate.
+
+<Images/multi_id-eps-converted-to.pdf, id=69, 261.97874pt x 282.05376pt>
+File: Images/multi_id-eps-converted-to.pdf Graphic file (type pdf)
+
+<use Images/multi_id-eps-converted-to.pdf> [18 <./Images/multi_id-eps-converted
+-to.pdf>] [19] [20]
 Chapter 2.
-[18
+[21
 
 ]
 Chapter 3.
-[19
+[22
 
 ]
 Chapter 4.
-) (./bibliography.tex [20
+) (./bibliography.tex [23
 
 ]
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no “ in font cmr10!
- [21
+ [24
 
 ]
 Missing character: There is no â in font cmr10!
@@ -257,7 +274,7 @@ Missing character: There is no “ in font cmr10!
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no “ in font cmr10!
- [22]
+ [25]
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ™ in font cmr10!
@@ -266,7 +283,7 @@ Missing character: There is no € in font cmr10!
 Missing character: There is no “ in font cmr10!
 Missing character: There is no Ã in font cmr10!
 Missing character: There is no ³ in font cmr10!
- [23]
+ [26]
 Missing character: There is no Ã in font cmr10!
 Missing character: There is no ³ in font cmr10!
 Missing character: There is no â in font cmr10!
@@ -294,7 +311,7 @@ Missing character: There is no € in font cmr10!
 Missing character: There is no “ in font cmr10!
 Missing character: There is no Ã in font cmr10!
 Missing character: There is no ­ in font cmr10!
- [24]
+ [27]
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ¦ in font cmr10!
@@ -304,16 +321,20 @@ Missing character: There is no “ in font cmr10!
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no “ in font cmr10!
- [25]) [26]
+ [28]
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no “ in font cmr10!
+) [29]
 (./rutwik_proposal.aux) ) 
 Here is how much of TeX's memory you used:
- 1576 strings out of 493848
- 21800 string characters out of 1152823
- 76747 words of memory out of 3000000
- 4817 multiletter control sequences out of 15000+50000
+ 1595 strings out of 493848
+ 22135 string characters out of 1152823
+ 76798 words of memory out of 3000000
+ 4832 multiletter control sequences out of 15000+50000
  9453 words of font info for 33 fonts, out of 3000000 for 9000
  714 hyphenation exceptions out of 8191
- 41i,6n,23p,1678b,249s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 41i,6n,23p,1678b,251s stack positions out of 5000i,500n,10000p,200000b,50000s
 </usr/share/texmf-texlive/fonts/type1/public/amsfonts/
 cm/cmbx10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmbx12.p
 fb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/sha
@@ -321,9 +342,9 @@ re/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-tex
 live/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texmf-texlive/fonts/t
 ype1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-texlive/fonts/type1/public
 /amsfonts/cm/cmti10.pfb>
-Output written on rutwik_proposal.pdf (27 pages, 247623 bytes).
+Output written on rutwik_proposal.pdf (30 pages, 289670 bytes).
 PDF statistics:
- 121 PDF objects out of 1000 (max. 8388607)
+ 134 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 11 words of extra memory for PDF output out of 10000 (max. 10000000)
 

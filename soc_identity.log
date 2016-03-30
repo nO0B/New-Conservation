@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2016.3.17)  29 MAR 2016 15:28
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2016.3.17)  29 MAR 2016 11:55
 entering extended mode
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**\input bibliography.tex
-(./bibliography.tex (/home/rutwik/texmf/tex/latex/subfiles/subfiles.cls
+**\input soc_identity.tex
+(./soc_identity.tex (/home/rutwik/texmf/tex/latex/subfiles/subfiles.cls
 Document Class: subfiles 2012/05/23 Federico Garcia
 (/usr/share/texmf-texlive/tex/latex/tools/verbatim.sty
 Package: verbatim 2003/08/22 v1.5q LaTeX2e package for verbatim enhancements
@@ -119,8 +119,8 @@ Package: epsfig 1999/02/16 v1.7a (e)psfig emulation (SPQR)
 LaTeX Info: Redefining \cite on input line 285.
 LaTeX Info: Redefining \nocite on input line 356.
 Package: cite 2009/08/29  v 5.2
-))) (./bibliography.aux)
-\openout1 = `bibliography.aux'.
+))) (./soc_identity.aux)
+\openout1 = `soc_identity.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 3.
 LaTeX Font Info:    ... okay on input line 3.
@@ -148,107 +148,43 @@ LaTeX Font Info:    ... okay on input line 3.
 \MPnumerator=\count93
 \everyMPtoPDFconversion=\toks18
 )
-Missing character: There is no â in font cmr10!
-Missing character: There is no € in font cmr10!
-Missing character: There is no “ in font cmr10!
- [1
 
+LaTeX Warning: Citation `Hume1739' on page 1 undefined on input line 7.
+
+[1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-Missing character: There is no â in font cmr10!
-Missing character: There is no € in font cmr10!
-Missing character: There is no “ in font cmr10!
-Missing character: There is no â in font cmr10!
-Missing character: There is no € in font cmr10!
-Missing character: There is no ™ in font cmr10!
-Missing character: There is no â in font cmr10!
-Missing character: There is no € in font cmr10!
-Missing character: There is no “ in font cmr10!
-Missing character: There is no â in font cmr10!
-Missing character: There is no € in font cmr10!
-Missing character: There is no ™ in font cmr10!
-Missing character: There is no â in font cmr10!
-Missing character: There is no € in font cmr10!
-Missing character: There is no “ in font cmr10!
-Missing character: There is no â in font cmr10!
-Missing character: There is no € in font cmr10!
-Missing character: There is no “ in font cmr10!
-Missing character: There is no â in font cmr10!
-Missing character: There is no € in font cmr10!
-Missing character: There is no “ in font cmr10!
-Missing character: There is no â in font cmr10!
-Missing character: There is no € in font cmr10!
-Missing character: There is no “ in font cmr10!
-Missing character: There is no â in font cmr10!
-Missing character: There is no € in font cmr10!
-Missing character: There is no “ in font cmr10!
- [2]
-Missing character: There is no â in font cmr10!
-Missing character: There is no € in font cmr10!
-Missing character: There is no ™ in font cmr10!
-Missing character: There is no â in font cmr10!
-Missing character: There is no € in font cmr10!
-Missing character: There is no “ in font cmr10!
-Missing character: There is no Ã in font cmr10!
-Missing character: There is no ³ in font cmr10!
- [3]
-Missing character: There is no Ã in font cmr10!
-Missing character: There is no ³ in font cmr10!
-Missing character: There is no â in font cmr10!
-Missing character: There is no € in font cmr10!
-Missing character: There is no “ in font cmr10!
-Missing character: There is no â in font cmr10!
-Missing character: There is no € in font cmr10!
-Missing character: There is no “ in font cmr10!
-Missing character: There is no â in font cmr10!
-Missing character: There is no € in font cmr10!
-Missing character: There is no “ in font cmr10!
-Missing character: There is no Ã in font cmr10!
-Missing character: There is no © in font cmr10!
-Missing character: There is no â in font cmr10!
-Missing character: There is no € in font cmr10!
-Missing character: There is no ˜ in font cmr10!
-Missing character: There is no â in font cmr10!
-Missing character: There is no € in font cmr10!
-Missing character: There is no ™ in font cmr10!
-Missing character: There is no â in font cmr10!
-Missing character: There is no € in font cmr10!
-Missing character: There is no “ in font cmr10!
-Missing character: There is no â in font cmr10!
-Missing character: There is no € in font cmr10!
-Missing character: There is no “ in font cmr10!
-Missing character: There is no Ã in font cmr10!
-Missing character: There is no ­ in font cmr10!
- [4]
-Missing character: There is no â in font cmr10!
-Missing character: There is no € in font cmr10!
-Missing character: There is no ¦ in font cmr10!
-Missing character: There is no â in font cmr10!
-Missing character: There is no € in font cmr10!
-Missing character: There is no “ in font cmr10!
-Missing character: There is no â in font cmr10!
-Missing character: There is no € in font cmr10!
-Missing character: There is no “ in font cmr10!
- [5]
-Missing character: There is no â in font cmr10!
-Missing character: There is no € in font cmr10!
-Missing character: There is no “ in font cmr10!
+Chapter 1.
+[2
 
-[6] (./bibliography.aux) ) 
+]
+Chapter 2.
+[3
+
+]
+Chapter 3.
+[4
+
+] (./soc_identity.aux)
+
+LaTeX Warning: There were undefined references.
+
+ ) 
 Here is how much of TeX's memory you used:
- 1491 strings out of 493848
- 20665 string characters out of 1152823
- 74699 words of memory out of 3000000
- 4772 multiletter control sequences out of 15000+50000
- 4592 words of font info for 17 fonts, out of 3000000 for 9000
+ 1425 strings out of 493848
+ 19984 string characters out of 1152823
+ 71466 words of memory out of 3000000
+ 4703 multiletter control sequences out of 15000+50000
+ 5812 words of font info for 21 fonts, out of 3000000 for 9000
  714 hyphenation exceptions out of 8191
- 50i,4n,25p,785b,209s stack positions out of 5000i,500n,10000p,200000b,50000s
-</usr/share/texmf-texlive/fonts/type1/public/amsfonts
-/cm/cmbx12.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr10.p
-fb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on bibliography.pdf (6 pages, 76357 bytes).
+ 50i,4n,25p,995b,111s stack positions out of 5000i,500n,10000p,200000b,50000s
+</usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/sha
+re/texmf-texlive/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-te
+xlive/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-texlive/fonts/
+type1/public/amsfonts/cm/cmti10.pfb>
+Output written on soc_identity.pdf (4 pages, 64830 bytes).
 PDF statistics:
- 33 PDF objects out of 1000 (max. 8388607)
+ 31 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
