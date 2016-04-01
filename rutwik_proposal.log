@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2016.3.17)  30 MAR 2016 00:23
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2016.3.17)  31 MAR 2016 23:22
 entering extended mode
  %&-line parsing enabled.
 **rutwik_proposal.tex
@@ -228,23 +228,23 @@ Package epstopdf Info: Output file is already uptodate.
 File: Images/multi_id-eps-converted-to.pdf Graphic file (type pdf)
 
 <use Images/multi_id-eps-converted-to.pdf> [18 <./Images/multi_id-eps-converted
--to.pdf>] [19] [20]
+-to.pdf>] [19]) (./rational_choice.tex [20] [21] [22] [23]
 Chapter 2.
-[21
+[24
 
 ]
 Chapter 3.
-[22
+[25
 
 ]
 Chapter 4.
-) (./bibliography.tex [23
+) (./bibliography.tex [26
 
 ]
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no “ in font cmr10!
- [24
+ [27
 
 ]
 Missing character: There is no â in font cmr10!
@@ -274,7 +274,7 @@ Missing character: There is no “ in font cmr10!
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no “ in font cmr10!
- [25]
+ [28]
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ™ in font cmr10!
@@ -283,7 +283,7 @@ Missing character: There is no € in font cmr10!
 Missing character: There is no “ in font cmr10!
 Missing character: There is no Ã in font cmr10!
 Missing character: There is no ³ in font cmr10!
- [26]
+ [29]
 Missing character: There is no Ã in font cmr10!
 Missing character: There is no ³ in font cmr10!
 Missing character: There is no â in font cmr10!
@@ -311,7 +311,7 @@ Missing character: There is no € in font cmr10!
 Missing character: There is no “ in font cmr10!
 Missing character: There is no Ã in font cmr10!
 Missing character: There is no ­ in font cmr10!
- [27]
+ [30]
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ¦ in font cmr10!
@@ -321,17 +321,27 @@ Missing character: There is no “ in font cmr10!
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no “ in font cmr10!
- [28]
+ [31]
+Missing character: There is no â in font cmti10!
+Missing character: There is no € in font cmti10!
+Missing character: There is no œ in font cmti10!
+Missing character: There is no â in font cmti10!
+Missing character: There is no € in font cmti10!
+Missing character: There is no  in font cmti10!
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no “ in font cmr10!
-) [29]
+ [32]
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no “ in font cmr10!
+) [33]
 (./rutwik_proposal.aux) ) 
 Here is how much of TeX's memory you used:
- 1595 strings out of 493848
- 22135 string characters out of 1152823
- 76798 words of memory out of 3000000
- 4832 multiletter control sequences out of 15000+50000
+ 1608 strings out of 493848
+ 22272 string characters out of 1152823
+ 76795 words of memory out of 3000000
+ 4842 multiletter control sequences out of 15000+50000
  9453 words of font info for 33 fonts, out of 3000000 for 9000
  714 hyphenation exceptions out of 8191
  41i,6n,23p,1678b,251s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -342,9 +352,9 @@ re/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-tex
 live/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texmf-texlive/fonts/t
 ype1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-texlive/fonts/type1/public
 /amsfonts/cm/cmti10.pfb>
-Output written on rutwik_proposal.pdf (30 pages, 289670 bytes).
+Output written on rutwik_proposal.pdf (34 pages, 299574 bytes).
 PDF statistics:
- 134 PDF objects out of 1000 (max. 8388607)
+ 147 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  11 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -1,0 +1,28 @@
+\documentclass[rutwik_proposal.tex]{subfiles}
+
+\begin{document}
+
+\subsection{Rational Choice Model}\label{subsec:rationality}
+
+The rational choice model is similar to the socialized actor theory in that they both assume that there is a rational basis for people conforming to norms. The two theories differ about what the rational basis is. While the socialized actor theory focuses on guilt and self conflict associated with acting in ways that do not conform to social norms, the rational choice model states that social sanctions imposed on non-conformers by other members of society is the primary cause for conformity \cite{Axelrod86}. The sanctions might take on different forms such as shaming, ostracism, or in the case of Donald Trump's rallies, punches administered to protestors. Since no one wants to be subjected to such sanctions, it is more beneficial to conform. 
+
+Clearly, sanctions can only be enacted against observable behaviors. Thus, this is a highly behavioral approach to thinking about social norms and proponents of this approach have mostly been interested in why people coordinate their efforts, particularly in the use of public goods. Due to its utilitarian emphasis, it is also easy to adapt this model to cost-benefit analyses. For these reasons, economists, political scientists, and philosophers have been very attracted to this way of thinking. Brian Skyrms, Peyton Young, Cristina Bicchieri, and many others have used game theoretic methods based on this model to explore questions of coordination in the use of common pool resources \cite{Skyrms96, Skyrms04, Young98}.
+
+One of the requisites for social sanctioning to be effective is repeated interactions. If there is very little probability of two people ever meeting again, there is little incentive for them to cooperate. There is also very little incentive to sanction cheaters in one-off interactions. However, Ernst Fehr and his collaborators have shown through a series of clever experiments that people do cooperate and that they do punish cheaters even in interactions where there is a negligible possibility of interacting with the same person again. In fact, people punish cheaters even if the actions of the cheaters do not directly affect them \cite{Fehr02, Fehr03, Fehr04}.
+
+Social sanctioning is generally assumed to lead to the emergence of norms, but many other mechanisms are believed to be involved in the maintenance of conformity after the norms have been established. Such mechanisms include \cite{Axelrod86}:
+\begin{itemize}
+\item \textbf{Metanorms}: Sanctioning non-conformers itself might be costly. There needs to be some way of ensuring that members of society do not renege on their duty to sanction cheaters. This leads to the establishment of metanorms. Metanorms are second order norms that have to do with punishing cheaters and rewarding conformers. This is seen by many as one of the big weaknesses in this theory. The argument for requiring metanorms can be carried on \textit{ad infinitum} because norms of punishment and reward themselves need metanorms in order to be maintained.
+\item \textbf{Dominance}: The dominance of one group over another can also lead to continued conformity. Sanctions imposed by members of the subordinate group on members of the dominant group might not be very expensive for the dominant group members while potentially being quite expensive for the people imposing the sanction. In simulations, this mechanism, when coupled with metanorms can lead to conformity.
+\item \textbf{Internalization}: Internalization of metanorms could potentially even convert the costs of punishing into rewards if these norms are sufficiently well internalized. An interesting question then becomes: how many members of a society need to have internalized the norms of the society in order for them to persit?
+\item \textbf{Reputation}: Upholding a norm, even at very high costs, could lead to an enhancement in reputation that could, in turn, lead to increased future benefits. This line of reasoning leads to \textit{indirect reciprocity}, in which norms are upheld in dealings with others even if there is very little chance
+
+\end{itemize}
+
+\chapter{Can Norms Make a Difference?}\label{ch:usefulness}
+
+\chapter{Models}\label{ch:models}
+
+\chapter{Field Studies and Experiments}\label{ch:field}
+
+\end{document}
