@@ -9,5 +9,5 @@
 \contentsline {subsection}{\numberline {1.2.2}Social Identity Theory}{17}
 \contentsline {subsection}{\numberline {1.2.3}Rational Choice Model}{20}
 \contentsline {chapter}{\numberline {2}Can Norms Make a Difference?}{24}
-\contentsline {chapter}{\numberline {3}Models}{27}
-\contentsline {chapter}{\numberline {4}Field Studies and Experiments}{28}
+\contentsline {chapter}{\numberline {3}A Model for the Evolution of Societies}{27}
+\contentsline {chapter}{\numberline {4}Field Studies and Experiments}{30}
