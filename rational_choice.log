@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2016.3.17)  31 MAR 2016 17:08
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2016.3.17)  1 APR 2016 19:36
 entering extended mode
  file:line:error style messages enabled.
  %&-line parsing enabled.
@@ -158,53 +158,75 @@ LaTeX Warning: Citation `Skyrms96' on page 1 undefined on input line 9.
 LaTeX Warning: Citation `Skyrms04' on page 1 undefined on input line 9.
 
 
-LaTeX Warning: Citation `Young98' on page 1 undefined on input line 9.
-
-
-LaTeX Warning: Citation `Fehr03' on page 1 undefined on input line 9.
-
-
-LaTeX Warning: Citation `Fehr02' on page 1 undefined on input line 11.
+LaTeX Warning: Citation `Young1998' on page 1 undefined on input line 9.
 
 
 LaTeX Warning: Citation `Fehr03' on page 1 undefined on input line 11.
 
 
-LaTeX Warning: Citation `Fehr04' on page 1 undefined on input line 11.
+LaTeX Warning: Citation `Fehr02' on page 1 undefined on input line 13.
+
+
+LaTeX Warning: Citation `Fehr03' on page 1 undefined on input line 13.
+
+
+LaTeX Warning: Citation `Fehr04' on page 1 undefined on input line 13.
 
 [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-Chapter 1.
-[2
 
-]
-Chapter 2.
-[3
+LaTeX Warning: Citation `Bicchieri14' on page 2 undefined on input line 17.
 
-]
-Chapter 3.
-[4
 
-] (./rational_choice.aux)
+LaTeX Warning: Citation `Boyd88' on page 2 undefined on input line 19.
+
+
+LaTeX Warning: Citation `Diamond71' on page 2 undefined on input line 21.
+
+
+LaTeX Warning: Citation `Kramer84' on page 2 undefined on input line 21.
+
+
+LaTeX Warning: Citation `Axelrod86' on page 2 undefined on input line 21.
+
+
+LaTeX Warning: Citation `Axelrod86' on page 2 undefined on input line 23.
+
+
+LaTeX Warning: Citation `Fehr04' on page 2 undefined on input line 23.
+
+[2]
+
+LaTeX Warning: Citation `Fehr16' on page 3 undefined on input line 25.
+
+
+LaTeX Warning: Citation `Allcott11' on page 3 undefined on input line 27.
+
+
+LaTeX Warning: Reference `subsec:ecoservices' on page 3 undefined on input line
+ 29.
+
+[3] [4] (./rational_choice.aux)
 
 LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 1424 strings out of 493848
- 19969 string characters out of 1152823
- 73400 words of memory out of 3000000
- 4703 multiletter control sequences out of 15000+50000
- 5466 words of font info for 20 fonts, out of 3000000 for 9000
+ 1427 strings out of 493848
+ 20003 string characters out of 1152823
+ 75400 words of memory out of 3000000
+ 4706 multiletter control sequences out of 15000+50000
+ 4899 words of font info for 18 fonts, out of 3000000 for 9000
  714 hyphenation exceptions out of 8191
- 50i,4n,25p,1392b,111s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 50i,4n,25p,1538b,107s stack positions out of 5000i,500n,10000p,200000b,50000s
 </usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/sha
 re/texmf-texlive/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-te
-xlive/fonts/type1/public/amsfonts/cm/cmr10.pfb>
-Output written on rational_choice.pdf (4 pages, 48656 bytes).
+xlive/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-texlive/fonts/
+type1/public/amsfonts/cm/cmti10.pfb>
+Output written on rational_choice.pdf (4 pages, 66543 bytes).
 PDF statistics:
- 27 PDF objects out of 1000 (max. 8388607)
+ 31 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

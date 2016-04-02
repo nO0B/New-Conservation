@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2016.3.17)  29 MAR 2016 11:55
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2016.3.17)  1 APR 2016 19:35
 entering extended mode
  file:line:error style messages enabled.
  %&-line parsing enabled.
@@ -149,42 +149,92 @@ LaTeX Font Info:    ... okay on input line 3.
 \everyMPtoPDFconversion=\toks18
 )
 
+LaTeX Warning: Citation `Brewer79' on page 1 undefined on input line 7.
+
+
+LaTeX Warning: Citation `Cancian75' on page 1 undefined on input line 7.
+
+
 LaTeX Warning: Citation `Hume1739' on page 1 undefined on input line 7.
+
+
+LaTeX Warning: Citation `Tajfel81' on page 1 undefined on input line 9.
+
+
+LaTeX Warning: Citation `Turner86' on page 1 undefined on input line 9.
 
 [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-Chapter 1.
-[2
+Package epstopdf Info: Source file: <Images/multi_id.eps>
+(epstopdf)                    date: 2016-03-29 16:14:09
+(epstopdf)                    size: 88659 bytes
+(epstopdf)             Output file: <Images/multi_id-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-03-29 16:19:17
+(epstopdf)                    size: 32999 bytes
+(epstopdf)             Command: <epstopdf --outfile=Images/multi_id-eps-convert
+ed-to.pdf Images/multi_id.eps>
+(epstopdf)             \includegraphics on input line 17.
+Package epstopdf Info: Output file is already uptodate.
 
-]
-Chapter 2.
-[3
+<Images/multi_id-eps-converted-to.pdf, id=9, 261.97874pt x 282.05376pt>
+File: Images/multi_id-eps-converted-to.pdf Graphic file (type pdf)
 
-]
-Chapter 3.
-[4
+<use Images/multi_id-eps-converted-to.pdf>
 
-] (./soc_identity.aux)
+LaTeX Warning: Citation `Brewer91' on page 2 undefined on input line 18.
+
+
+LaTeX Warning: Citation `Brewer91' on page 2 undefined on input line 22.
+
+
+LaTeX Warning: Citation `Zimbardo07' on page 2 undefined on input line 24.
+
+
+LaTeX Warning: Citation `Brewer91' on page 2 undefined on input line 24.
+
+
+LaTeX Warning: Citation `Kramer84' on page 2 undefined on input line 24.
+
+
+LaTeX Warning: Citation `Brewer79' on page 2 undefined on input line 24.
+
+[2 <./Images/multi_id-eps-converted-to.pdf>]
+
+LaTeX Warning: Citation `Dawes00' on page 3 undefined on input line 26.
+
+
+LaTeX Warning: Citation `Schanck32' on page 3 undefined on input line 26.
+
+
+LaTeX Warning: Citation `Mackie96' on page 3 undefined on input line 30.
+
+
+LaTeX Warning: Citation `Shell-Duncan00' on page 3 undefined on input line 30.
+
+
+LaTeX Warning: Citation `Mullen92' on page 3 undefined on input line 32.
+
+[3] [4] (./soc_identity.aux)
 
 LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 1425 strings out of 493848
- 19984 string characters out of 1152823
- 71466 words of memory out of 3000000
- 4703 multiletter control sequences out of 15000+50000
- 5812 words of font info for 21 fonts, out of 3000000 for 9000
+ 1444 strings out of 493848
+ 20190 string characters out of 1152823
+ 74384 words of memory out of 3000000
+ 4708 multiletter control sequences out of 15000+50000
+ 4899 words of font info for 18 fonts, out of 3000000 for 9000
  714 hyphenation exceptions out of 8191
- 50i,4n,25p,995b,111s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 50i,5n,25p,1352b,195s stack positions out of 5000i,500n,10000p,200000b,50000s
 </usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/sha
 re/texmf-texlive/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-te
 xlive/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-texlive/fonts/
 type1/public/amsfonts/cm/cmti10.pfb>
-Output written on soc_identity.pdf (4 pages, 64830 bytes).
+Output written on soc_identity.pdf (4 pages, 97703 bytes).
 PDF statistics:
- 31 PDF objects out of 1000 (max. 8388607)
+ 35 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 6 words of extra memory for PDF output out of 10000 (max. 10000000)
 

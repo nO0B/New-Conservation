@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2016.3.17)  1 APR 2016 19:34
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2016.3.17)  1 APR 2016 19:35
 entering extended mode
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**\input nature_and_ppl.tex
-(./nature_and_ppl.tex (/home/rutwik/texmf/tex/latex/subfiles/subfiles.cls
+**\input social_norms.tex
+(./social_norms.tex (/home/rutwik/texmf/tex/latex/subfiles/subfiles.cls
 Document Class: subfiles 2012/05/23 Federico Garcia
 (/usr/share/texmf-texlive/tex/latex/tools/verbatim.sty
 Package: verbatim 2003/08/22 v1.5q LaTeX2e package for verbatim enhancements
@@ -119,8 +119,8 @@ Package: epsfig 1999/02/16 v1.7a (e)psfig emulation (SPQR)
 LaTeX Info: Redefining \cite on input line 285.
 LaTeX Info: Redefining \nocite on input line 356.
 Package: cite 2009/08/29  v 5.2
-))) (./nature_and_ppl.aux)
-\openout1 = `nature_and_ppl.aux'.
+))) (./social_norms.aux)
+\openout1 = `social_norms.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 3.
 LaTeX Font Info:    ... okay on input line 3.
@@ -149,63 +149,69 @@ LaTeX Font Info:    ... okay on input line 3.
 \everyMPtoPDFconversion=\toks18
 )
 
-LaTeX Warning: Citation `Mace14' on page 1 undefined on input line 7.
+LaTeX Warning: Citation `Young98' on page 1 undefined on input line 7.
 
 
-LaTeX Warning: Citation `Ostrom10' on page 1 undefined on input line 7.
+LaTeX Warning: Citation `Ellickson91' on page 1 undefined on input line 7.
 
 
-LaTeX Warning: Citation `Carpenter09' on page 1 undefined on input line 7.
+LaTeX Warning: Citation `Posner00' on page 1 undefined on input line 7.
 
 
-LaTeX Warning: Citation `Campese09' on page 1 undefined on input line 9.
+LaTeX Warning: Citation `Kinzig13' on page 1 undefined on input line 7.
 
 
-LaTeX Warning: Citation `Springer09' on page 1 undefined on input line 9.
+LaTeX Warning: Citation `Levin11' on page 1 undefined on input line 7.
 
 
-LaTeX Warning: Citation `Ehrlich94' on page 1 undefined on input line 13.
+LaTeX Warning: Citation `Bicchieri14' on page 1 undefined on input line 9.
 
 
-LaTeX Warning: Citation `Ehrlich71' on page 1 undefined on input line 13.
+LaTeX Warning: Citation `Parsons51' on page 1 undefined on input line 13.
 
 
-LaTeX Warning: Citation `UScons08' on page 1 undefined on input line 13.
-
-
-LaTeX Warning: Citation `Lenzen99' on page 1 undefined on input line 13.
-
-
-LaTeX Warning: Citation `Schor99' on page 1 undefined on input line 13.
-
-
-LaTeX Warning: Citation `Schor04' on page 1 undefined on input line 13.
+LaTeX Warning: Citation `Agrawal15' on page 1 undefined on input line 13.
 
 [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
 
-LaTeX Warning: Citation `Bicchieri05' on page 2 undefined on input line 15.
+LaTeX Warning: Citation `LaPiere34' on page 2 undefined on input line 17.
 
-[2] (./nature_and_ppl.aux)
+
+LaTeX Warning: Citation `Wicker69' on page 2 undefined on input line 17.
+
+
+LaTeX Warning: Citation `Bicchieri09' on page 2 undefined on input line 19.
+
+
+LaTeX Warning: Citation `Prentice93' on page 2 undefined on input line 19.
+
+
+LaTeX Warning: Citation `Mackie96' on page 2 undefined on input line 21.
+
+
+LaTeX Warning: Citation `Schanck32' on page 2 undefined on input line 23.
+
+[2] [3] (./social_norms.aux)
 
 LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
  1425 strings out of 493848
- 19983 string characters out of 1152823
- 76422 words of memory out of 3000000
+ 19971 string characters out of 1152823
+ 75386 words of memory out of 3000000
  4705 multiletter control sequences out of 15000+50000
- 4553 words of font info for 17 fonts, out of 3000000 for 9000
+ 5158 words of font info for 19 fonts, out of 3000000 for 9000
  714 hyphenation exceptions out of 8191
- 50i,4n,25p,1489b,107s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 50i,4n,25p,1263b,107s stack positions out of 5000i,500n,10000p,200000b,50000s
 </usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/sha
 re/texmf-texlive/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-te
 xlive/fonts/type1/public/amsfonts/cm/cmr10.pfb>
-Output written on nature_and_ppl.pdf (2 pages, 47376 bytes).
+Output written on social_norms.pdf (3 pages, 52317 bytes).
 PDF statistics:
- 21 PDF objects out of 1000 (max. 8388607)
+ 24 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
